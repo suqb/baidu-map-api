@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: suqb-map-utils
+server:
+  port: 10401
+map:
+  application:
+    key: qxnb0tqLx41vRfx20yUo57a7qoRLIKFB
+    output: json
