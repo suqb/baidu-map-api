@@ -1,4 +1,4 @@
-package com.suqb.map.pojo.request;
+package com.suqb.map.pojo.request.location;
 
 /**
  * @author suqb 2023/4/17
@@ -85,6 +85,4 @@ public interface ArsRequestParams {
      * 若不传入该字段，默认召回门址数据，仅当address_result=false时，召回相应的POI数据
      */
     String ADDRESS_RESULT = "address_result";
-
-
 }

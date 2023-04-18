@@ -1,7 +1,7 @@
 package com.suqb.map.util;
 
 import com.suqb.map.constant.BaiduMapApiLocationConstant;
-import com.suqb.map.pojo.request.ArsRequestParams;
+import com.suqb.map.pojo.request.location.ArsRequestParams;
 import lombok.extern.slf4j.Slf4j;
 import org.apache.http.HttpEntity;
 import org.apache.http.HttpStatus;
